@@ -1,36 +1,23 @@
 # markdown-schedule-snippet
 
-This is the snippets for markdown schedule.
+This is the snippets for markdown schedule. It's very convenient for planning work.
 
 ## Features
 
 Just enter `we` then you can get:
 
 ``` markdown
-
 ## Mon.
-
-
 
 ## Tue.
 
-
-
 ## Wed.
-
-
 
 ## Thur.
 
-
-
 ## Fri.
 
-
-
 ## Sat.
-
-
 
 ## Sun.
 

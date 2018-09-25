@@ -2,6 +2,8 @@
     "name": "schedule",
     "displayName": "markdown-schedule-snippet",
     "description": "markdown schedule snippet",
+    "categories": "[Markdown, Snippets]",
+    "icon": "images/icon.png",
     "version": "0.0.1",
     "publisher": "HyG",
     "repository": "git@github.com:Gaohaoyang/markdown-schedule-snippet.git",
