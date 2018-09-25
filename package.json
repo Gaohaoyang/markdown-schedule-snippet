@@ -3,7 +3,8 @@
     "displayName": "markdown-schedule-snippet",
     "description": "markdown schedule snippet",
     "version": "0.0.1",
-    "publisher": "schedule-snippet",
+    "publisher": "HyG",
+    "repository": "git@github.com:Gaohaoyang/markdown-schedule-snippet.git",
     "engines": {
         "vscode": "^1.27.0"
     },
