@@ -1,1 +1,44 @@
-{}
+{
+  "week": {
+    "prefix": "we",
+    "body": [
+      // "# ${CURRENT_YEAR}${CURRENT_MONTH}${CURRENT_DATE}",
+      // "",
+      "## Mon.",
+      "\n\n",
+      "## Tue.",
+      "\n\n",
+      "## Wed.",
+      "\n\n",
+      "## Thur.",
+      "\n\n",
+      "## Fri.",
+      "\n\n",
+      "## Sat.",
+      "\n\n",
+      "## Sun."
+    ],
+    "description": "This week day"
+  },
+  "weekFromSat": {
+    "prefix": "wfs",
+    "body": [
+      // "# ${CURRENT_YEAR}${CURRENT_MONTH}${CURRENT_DATE}",
+      // "",
+      "## Sat.",
+      "\n\n",
+      "## Sun.",
+      "\n\n",
+      "## Mon.",
+      "\n\n",
+      "## Tue.",
+      "\n\n",
+      "## Wed.",
+      "\n\n",
+      "## Thur.",
+      "\n\n",
+      "## Fri."
+    ],
+    "description": "This week day (from Sat.)"
+  }
+}

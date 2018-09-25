@@ -1,7 +1,7 @@
 {
     "name": "schedule",
-    "displayName": "schedule",
-    "description": "",
+    "displayName": "markdown-schedule-snippet",
+    "description": "markdown schedule snippet",
     "version": "0.0.1",
     "publisher": "schedule-snippet",
     "engines": {
