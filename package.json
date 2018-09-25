@@ -4,7 +4,7 @@
     "description": "markdown schedule snippet",
     "categories": "[Markdown, Snippets]",
     "icon": "images/icon.png",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "HyG",
     "repository": "git@github.com:Gaohaoyang/markdown-schedule-snippet.git",
     "engines": {
