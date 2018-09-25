@@ -1,0 +1,21 @@
+{
+    "name": "schedule",
+    "displayName": "schedule",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "schedule-snippet",
+    "engines": {
+        "vscode": "^1.27.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "markdown",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
